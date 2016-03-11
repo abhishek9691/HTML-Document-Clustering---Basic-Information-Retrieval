@@ -1,0 +1,508 @@
+Final Clusters after execution: 
+Cluster = {[1]}
+Cluster = {[2]}
+Cluster = {[3, 61, 69, 214, 224, 236, 241, 242, 248, 335, 251, 259, 278, 329, 330, 237, 239, 245, 264, 273, 274, 332, 244, 276, 285, 286, 334, 254, 266, 283, 295, 261, 288, 296, 305, 263, 302, 318, 320, 321, 232, 262, 271, 275, 300, 306, 316, 322, 250, 256, 284, 301, 310, 270, 291, 313, 233, 235, 287, 290, 311, 315, 267, 272, 280, 243, 247, 258, 269, 277, 299, 304, 307, 323, 328, 240, 246, 260, 279, 281, 282, 298, 303, 309, 331, 249, 252, 289, 292, 308, 325, 326, 234, 333]}
+Cluster = {[4, 12, 225, 21, 83, 149, 180, 190, 6, 14, 23, 59, 201, 231, 85, 134, 209, 471, 485, 497, 499, 503]}
+Cluster = {[5]}
+Cluster = {[7]}
+Cluster = {[8, 219, 229, 114, 404, 406, 409, 411, 415, 416, 425, 429, 462, 484]}
+Cluster = {[9, 220, 230]}
+Cluster = {[10, 182]}
+Cluster = {[11, 37, 101, 86]}
+Cluster = {[13, 16, 39, 99, 135, 140, 173, 193, 203, 401, 405, 407, 412, 413, 421, 453, 498, 25, 122, 154, 185, 400, 432, 463, 464, 33, 183, 213]}
+Cluster = {[15, 72]}
+Cluster = {[17]}
+Cluster = {[18, 408, 419]}
+Cluster = {[19, 118, 348, 349, 358, 369, 377, 360, 372, 374, 132, 339, 340, 359, 361, 363, 351, 375, 376, 395, 396, 104, 49, 57]}
+Cluster = {[20, 93, 129, 155, 158, 194, 204]}
+Cluster = {[22, 133]}
+Cluster = {[24, 89]}
+Cluster = {[26]}
+Cluster = {[27]}
+Cluster = {[28, 36, 222]}
+Cluster = {[29]}
+Cluster = {[30, 38]}
+Cluster = {[31, 217]}
+Cluster = {[32, 56]}
+Cluster = {[34, 50]}
+Cluster = {[35, 113, 167, 171, 170, 200, 210, 53, 481, 451, 488, 491, 455, 496]}
+Cluster = {[40]}
+Cluster = {[41, 73, 65, 81]}
+Cluster = {[42]}
+Cluster = {[43]}
+Cluster = {[44, 52, 172, 192, 202, 212]}
+Cluster = {[45, 107]}
+Cluster = {[46, 75, 403, 414, 418, 423, 100, 115, 121, 410, 417, 420, 422, 424, 430, 398, 399, 402, 431, 459, 461, 482, 494]}
+Cluster = {[47, 55, 63, 71, 450, 452, 483]}
+Cluster = {[48, 120, 177, 238, 253, 257, 268, 327, 294, 255, 265, 293, 297, 312, 314, 317, 319, 324]}
+Cluster = {[51, 191]}
+Cluster = {[54, 152, 179, 189]}
+Cluster = {[58]}
+Cluster = {[60, 68, 141]}
+Cluster = {[62]}
+Cluster = {[64]}
+Cluster = {[66]}
+Cluster = {[67, 198]}
+Cluster = {[70]}
+Cluster = {[74]}
+Cluster = {[76, 127, 165]}
+Cluster = {[77, 150]}
+Cluster = {[78]}
+Cluster = {[79, 88, 95, 103, 110]}
+Cluster = {[80]}
+Cluster = {[82]}
+Cluster = {[84, 187]}
+Cluster = {[87, 94, 109, 116, 123, 186, 500, 501, 502]}
+Cluster = {[90]}
+Cluster = {[91]}
+Cluster = {[92, 151]}
+Cluster = {[96]}
+Cluster = {[97]}
+Cluster = {[98, 112]}
+Cluster = {[102, 130]}
+Cluster = {[105]}
+Cluster = {[106]}
+Cluster = {[108]}
+Cluster = {[111, 148, 199, 445, 446, 447, 448, 449]}
+Cluster = {[117, 387]}
+Cluster = {[119]}
+Cluster = {[124, 142]}
+Cluster = {[125, 138, 143]}
+Cluster = {[126]}
+Cluster = {[128, 145]}
+Cluster = {[131]}
+Cluster = {[136]}
+Cluster = {[137]}
+Cluster = {[139]}
+Cluster = {[144]}
+Cluster = {[146]}
+Cluster = {[147]}
+Cluster = {[153]}
+Cluster = {[156, 197]}
+Cluster = {[157, 162]}
+Cluster = {[159, 221]}
+Cluster = {[160]}
+Cluster = {[161, 174]}
+Cluster = {[163, 175]}
+Cluster = {[164, 166]}
+Cluster = {[168, 178, 228]}
+Cluster = {[169]}
+Cluster = {[176]}
+Cluster = {[181]}
+Cluster = {[184]}
+Cluster = {[188, 211]}
+Cluster = {[195]}
+Cluster = {[196]}
+Cluster = {[205, 215]}
+Cluster = {[206]}
+Cluster = {[207, 227]}
+Cluster = {[208, 218]}
+Cluster = {[216]}
+Cluster = {[223]}
+Cluster = {[226]}
+Cluster = {[336, 341, 365, 370, 337, 342, 347, 350, 366, 367, 354, 371, 373, 338, 364, 343, 344, 355, 362, 345, 346, 368, 352, 357, 353, 356]}
+Cluster = {[378]}
+Cluster = {[379, 380, 385, 386]}
+Cluster = {[381, 392, 397]}
+Cluster = {[382, 394]}
+Cluster = {[383, 390]}
+Cluster = {[384]}
+Cluster = {[388, 391]}
+Cluster = {[389]}
+Cluster = {[393]}
+Cluster = {[426, 427]}
+Cluster = {[428]}
+Cluster = {[433, 434, 435, 436, 437]}
+Cluster = {[438, 439, 441, 442, 440, 443, 444]}
+Cluster = {[454, 465, 466, 468, 479, 460, 472, 477, 473, 478, 486, 487, 489, 456, 458, 474, 475, 476, 492, 467, 469]}
+Cluster = {[457, 470, 480, 490, 493, 495]}
+----------------------------------------------------------------------------
+Order of clustering that was done: 
+Most similar documents: SimilarityPair{row=101, column=129, similarity=1.0}
+Least similar documents: SimilarityPair{row=350, column=399, similarity=1.694481118890326E-5}
+Merging together clusters: Cluster = {[102]}, Cluster = {[130]}
+Merging together clusters: Cluster = {[404]}, Cluster = {[406]}
+Merging together clusters: Cluster = {[404, 406]}, Cluster = {[409]}
+Merging together clusters: Cluster = {[416]}, Cluster = {[425]}
+Merging together clusters: Cluster = {[399]}, Cluster = {[402]}
+Merging together clusters: Cluster = {[404, 406, 409]}, Cluster = {[411]}
+Merging together clusters: Cluster = {[422]}, Cluster = {[424]}
+Merging together clusters: Cluster = {[404, 406, 409, 411]}, Cluster = {[415]}
+Merging together clusters: Cluster = {[420]}, Cluster = {[422, 424]}
+Merging together clusters: Cluster = {[417]}, Cluster = {[420, 422, 424]}
+Merging together clusters: Cluster = {[418]}, Cluster = {[423]}
+Merging together clusters: Cluster = {[417, 420, 422, 424]}, Cluster = {[430]}
+Merging together clusters: Cluster = {[405]}, Cluster = {[407]}
+Merging together clusters: Cluster = {[398]}, Cluster = {[399, 402]}
+Merging together clusters: Cluster = {[401]}, Cluster = {[405, 407]}
+Merging together clusters: Cluster = {[403]}, Cluster = {[414]}
+Merging together clusters: Cluster = {[401, 405, 407]}, Cluster = {[412]}
+Merging together clusters: Cluster = {[401, 405, 407, 412]}, Cluster = {[413]}
+Merging together clusters: Cluster = {[398, 399, 402]}, Cluster = {[431]}
+Merging together clusters: Cluster = {[434]}, Cluster = {[435]}
+Merging together clusters: Cluster = {[416, 425]}, Cluster = {[429]}
+Merging together clusters: Cluster = {[400]}, Cluster = {[432]}
+Merging together clusters: Cluster = {[403, 414]}, Cluster = {[418, 423]}
+Merging together clusters: Cluster = {[436]}, Cluster = {[437]}
+Merging together clusters: Cluster = {[410]}, Cluster = {[417, 420, 422, 424, 430]}
+Merging together clusters: Cluster = {[433]}, Cluster = {[434, 435]}
+Merging together clusters: Cluster = {[183]}, Cluster = {[213]}
+Merging together clusters: Cluster = {[173]}, Cluster = {[193]}
+Merging together clusters: Cluster = {[401, 405, 407, 412, 413]}, Cluster = {[421]}
+Merging together clusters: Cluster = {[404, 406, 409, 411, 415]}, Cluster = {[416, 425, 429]}
+Merging together clusters: Cluster = {[433, 434, 435]}, Cluster = {[436, 437]}
+Merging together clusters: Cluster = {[340]}, Cluster = {[359]}
+Merging together clusters: Cluster = {[463]}, Cluster = {[464]}
+Merging together clusters: Cluster = {[349]}, Cluster = {[358]}
+Merging together clusters: Cluster = {[349, 358]}, Cluster = {[369]}
+Merging together clusters: Cluster = {[349, 358, 369]}, Cluster = {[377]}
+Merging together clusters: Cluster = {[351]}, Cluster = {[375]}
+Merging together clusters: Cluster = {[360]}, Cluster = {[372]}
+Merging together clusters: Cluster = {[348]}, Cluster = {[349, 358, 369, 377]}
+Merging together clusters: Cluster = {[65]}, Cluster = {[81]}
+Merging together clusters: Cluster = {[339]}, Cluster = {[340, 359]}
+Merging together clusters: Cluster = {[339, 340, 359]}, Cluster = {[361]}
+Merging together clusters: Cluster = {[339, 340, 359, 361]}, Cluster = {[363]}
+Merging together clusters: Cluster = {[298]}, Cluster = {[303]}
+Merging together clusters: Cluster = {[25]}, Cluster = {[122]}
+Merging together clusters: Cluster = {[298, 303]}, Cluster = {[309]}
+Merging together clusters: Cluster = {[351, 375]}, Cluster = {[376]}
+Merging together clusters: Cluster = {[400, 432]}, Cluster = {[463, 464]}
+Merging together clusters: Cluster = {[360, 372]}, Cluster = {[374]}
+Merging together clusters: Cluster = {[281]}, Cluster = {[282]}
+Merging together clusters: Cluster = {[304]}, Cluster = {[307]}
+Merging together clusters: Cluster = {[323]}, Cluster = {[328]}
+Merging together clusters: Cluster = {[234]}, Cluster = {[333]}
+Merging together clusters: Cluster = {[14]}, Cluster = {[23]}
+Merging together clusters: Cluster = {[279]}, Cluster = {[281, 282]}
+Merging together clusters: Cluster = {[265]}, Cluster = {[293]}
+Merging together clusters: Cluster = {[499]}, Cluster = {[503]}
+Merging together clusters: Cluster = {[459]}, Cluster = {[461]}
+Merging together clusters: Cluster = {[25, 122]}, Cluster = {[154]}
+Merging together clusters: Cluster = {[298, 303, 309]}, Cluster = {[331]}
+Merging together clusters: Cluster = {[240]}, Cluster = {[246]}
+Merging together clusters: Cluster = {[408]}, Cluster = {[419]}
+Merging together clusters: Cluster = {[149]}, Cluster = {[180]}
+Merging together clusters: Cluster = {[279, 281, 282]}, Cluster = {[298, 303, 309, 331]}
+Merging together clusters: Cluster = {[6]}, Cluster = {[14, 23]}
+Merging together clusters: Cluster = {[299]}, Cluster = {[304, 307]}
+Merging together clusters: Cluster = {[12]}, Cluster = {[225]}
+Merging together clusters: Cluster = {[265, 293]}, Cluster = {[297]}
+Merging together clusters: Cluster = {[289]}, Cluster = {[292]}
+Merging together clusters: Cluster = {[316]}, Cluster = {[322]}
+Merging together clusters: Cluster = {[249]}, Cluster = {[252]}
+Merging together clusters: Cluster = {[235]}, Cluster = {[287]}
+Merging together clusters: Cluster = {[260]}, Cluster = {[279, 281, 282, 298, 303, 309, 331]}
+Merging together clusters: Cluster = {[312]}, Cluster = {[314]}
+Merging together clusters: Cluster = {[59]}, Cluster = {[201]}
+Merging together clusters: Cluster = {[286]}, Cluster = {[334]}
+Merging together clusters: Cluster = {[299, 304, 307]}, Cluster = {[323, 328]}
+Merging together clusters: Cluster = {[395]}, Cluster = {[396]}
+Merging together clusters: Cluster = {[258]}, Cluster = {[269]}
+Merging together clusters: Cluster = {[317]}, Cluster = {[319]}
+Merging together clusters: Cluster = {[250]}, Cluster = {[256]}
+Merging together clusters: Cluster = {[311]}, Cluster = {[315]}
+Merging together clusters: Cluster = {[276]}, Cluster = {[285]}
+Merging together clusters: Cluster = {[501]}, Cluster = {[502]}
+Merging together clusters: Cluster = {[248]}, Cluster = {[335]}
+Merging together clusters: Cluster = {[301]}, Cluster = {[310]}
+Merging together clusters: Cluster = {[240, 246]}, Cluster = {[260, 279, 281, 282, 298, 303, 309, 331]}
+Merging together clusters: Cluster = {[265, 293, 297]}, Cluster = {[312, 314]}
+Merging together clusters: Cluster = {[243]}, Cluster = {[247]}
+Merging together clusters: Cluster = {[253]}, Cluster = {[257]}
+Merging together clusters: Cluster = {[300]}, Cluster = {[306]}
+Merging together clusters: Cluster = {[277]}, Cluster = {[299, 304, 307, 323, 328]}
+Merging together clusters: Cluster = {[251]}, Cluster = {[259]}
+Merging together clusters: Cluster = {[242]}, Cluster = {[248, 335]}
+Merging together clusters: Cluster = {[63]}, Cluster = {[71]}
+Merging together clusters: Cluster = {[233]}, Cluster = {[235, 287]}
+Merging together clusters: Cluster = {[271]}, Cluster = {[275]}
+Merging together clusters: Cluster = {[265, 293, 297, 312, 314]}, Cluster = {[317, 319]}
+Merging together clusters: Cluster = {[237]}, Cluster = {[239]}
+Merging together clusters: Cluster = {[500]}, Cluster = {[501, 502]}
+Merging together clusters: Cluster = {[273]}, Cluster = {[274]}
+Merging together clusters: Cluster = {[249, 252]}, Cluster = {[289, 292]}
+Merging together clusters: Cluster = {[325]}, Cluster = {[326]}
+Merging together clusters: Cluster = {[243, 247]}, Cluster = {[258, 269]}
+Merging together clusters: Cluster = {[268]}, Cluster = {[327]}
+Merging together clusters: Cluster = {[278]}, Cluster = {[329]}
+Merging together clusters: Cluster = {[346]}, Cluster = {[368]}
+Merging together clusters: Cluster = {[450]}, Cluster = {[452]}
+Merging together clusters: Cluster = {[276, 285]}, Cluster = {[286, 334]}
+Merging together clusters: Cluster = {[284]}, Cluster = {[301, 310]}
+Merging together clusters: Cluster = {[20]}, Cluster = {[93]}
+Merging together clusters: Cluster = {[262]}, Cluster = {[271, 275]}
+Merging together clusters: Cluster = {[350]}, Cluster = {[366]}
+Merging together clusters: Cluster = {[296]}, Cluster = {[305]}
+Merging together clusters: Cluster = {[115]}, Cluster = {[121]}
+Merging together clusters: Cluster = {[288]}, Cluster = {[296, 305]}
+Merging together clusters: Cluster = {[255]}, Cluster = {[265, 293, 297, 312, 314, 317, 319]}
+Merging together clusters: Cluster = {[243, 247, 258, 269]}, Cluster = {[277, 299, 304, 307, 323, 328]}
+Merging together clusters: Cluster = {[264]}, Cluster = {[273, 274]}
+Merging together clusters: Cluster = {[253, 257]}, Cluster = {[268, 327]}
+Merging together clusters: Cluster = {[69]}, Cluster = {[214]}
+Merging together clusters: Cluster = {[465]}, Cluster = {[466]}
+Merging together clusters: Cluster = {[262, 271, 275]}, Cluster = {[300, 306]}
+Merging together clusters: Cluster = {[251, 259]}, Cluster = {[278, 329]}
+Merging together clusters: Cluster = {[341]}, Cluster = {[365]}
+Merging together clusters: Cluster = {[347]}, Cluster = {[350, 366]}
+Merging together clusters: Cluster = {[345]}, Cluster = {[346, 368]}
+Merging together clusters: Cluster = {[454]}, Cluster = {[465, 466]}
+Merging together clusters: Cluster = {[398, 399, 402, 431]}, Cluster = {[459, 461]}
+Merging together clusters: Cluster = {[291]}, Cluster = {[313]}
+Merging together clusters: Cluster = {[341, 365]}, Cluster = {[370]}
+Merging together clusters: Cluster = {[320]}, Cluster = {[321]}
+Merging together clusters: Cluster = {[116]}, Cluster = {[123]}
+Merging together clusters: Cluster = {[238]}, Cluster = {[253, 257, 268, 327]}
+Merging together clusters: Cluster = {[249, 252, 289, 292]}, Cluster = {[308]}
+Merging together clusters: Cluster = {[61]}, Cluster = {[69, 214]}
+Merging together clusters: Cluster = {[448]}, Cluster = {[449]}
+Merging together clusters: Cluster = {[245]}, Cluster = {[264, 273, 274]}
+Merging together clusters: Cluster = {[241]}, Cluster = {[242, 248, 335]}
+Merging together clusters: Cluster = {[261]}, Cluster = {[288, 296, 305]}
+Merging together clusters: Cluster = {[3]}, Cluster = {[61, 69, 214]}
+Merging together clusters: Cluster = {[233, 235, 287]}, Cluster = {[290]}
+Merging together clusters: Cluster = {[232]}, Cluster = {[262, 271, 275, 300, 306]}
+Merging together clusters: Cluster = {[237, 239]}, Cluster = {[245, 264, 273, 274]}
+Merging together clusters: Cluster = {[337]}, Cluster = {[342]}
+Merging together clusters: Cluster = {[347, 350, 366]}, Cluster = {[367]}
+Merging together clusters: Cluster = {[135]}, Cluster = {[140]}
+Merging together clusters: Cluster = {[251, 259, 278, 329]}, Cluster = {[330]}
+Merging together clusters: Cluster = {[344]}, Cluster = {[355]}
+Merging together clusters: Cluster = {[255, 265, 293, 297, 312, 314, 317, 319]}, Cluster = {[324]}
+Merging together clusters: Cluster = {[250, 256]}, Cluster = {[284, 301, 310]}
+Merging together clusters: Cluster = {[336]}, Cluster = {[341, 365, 370]}
+Merging together clusters: Cluster = {[173, 193]}, Cluster = {[203]}
+Merging together clusters: Cluster = {[55]}, Cluster = {[63, 71]}
+Merging together clusters: Cluster = {[249, 252, 289, 292, 308]}, Cluster = {[325, 326]}
+Merging together clusters: Cluster = {[132]}, Cluster = {[339, 340, 359, 361, 363]}
+Merging together clusters: Cluster = {[337, 342]}, Cluster = {[347, 350, 366, 367]}
+Merging together clusters: Cluster = {[244]}, Cluster = {[276, 285, 286, 334]}
+Merging together clusters: Cluster = {[263]}, Cluster = {[302]}
+Merging together clusters: Cluster = {[233, 235, 287, 290]}, Cluster = {[311, 315]}
+Merging together clusters: Cluster = {[343]}, Cluster = {[344, 355]}
+Merging together clusters: Cluster = {[25, 122, 154]}, Cluster = {[185]}
+Merging together clusters: Cluster = {[338]}, Cluster = {[364]}
+Merging together clusters: Cluster = {[454, 465, 466]}, Cluster = {[468]}
+Merging together clusters: Cluster = {[219]}, Cluster = {[229]}
+Merging together clusters: Cluster = {[100]}, Cluster = {[115, 121]}
+Merging together clusters: Cluster = {[237, 239, 245, 264, 273, 274]}, Cluster = {[332]}
+Merging together clusters: Cluster = {[51]}, Cluster = {[191]}
+Merging together clusters: Cluster = {[439]}, Cluster = {[441]}
+Merging together clusters: Cluster = {[443]}, Cluster = {[444]}
+Merging together clusters: Cluster = {[318]}, Cluster = {[320, 321]}
+Merging together clusters: Cluster = {[454, 465, 466, 468]}, Cluster = {[479]}
+Merging together clusters: Cluster = {[266]}, Cluster = {[283]}
+Merging together clusters: Cluster = {[482]}, Cluster = {[494]}
+Merging together clusters: Cluster = {[438]}, Cluster = {[439, 441]}
+Merging together clusters: Cluster = {[232, 262, 271, 275, 300, 306]}, Cluster = {[316, 322]}
+Merging together clusters: Cluster = {[440]}, Cluster = {[443, 444]}
+Merging together clusters: Cluster = {[450, 452]}, Cluster = {[483]}
+Merging together clusters: Cluster = {[343, 344, 355]}, Cluster = {[362]}
+Merging together clusters: Cluster = {[118]}, Cluster = {[348, 349, 358, 369, 377]}
+Merging together clusters: Cluster = {[236]}, Cluster = {[241, 242, 248, 335]}
+Merging together clusters: Cluster = {[8]}, Cluster = {[219, 229]}
+Merging together clusters: Cluster = {[438, 439, 441]}, Cluster = {[442]}
+Merging together clusters: Cluster = {[267]}, Cluster = {[272]}
+Merging together clusters: Cluster = {[263, 302]}, Cluster = {[318, 320, 321]}
+Merging together clusters: Cluster = {[270]}, Cluster = {[291, 313]}
+Merging together clusters: Cluster = {[39]}, Cluster = {[99]}
+Merging together clusters: Cluster = {[352]}, Cluster = {[357]}
+Merging together clusters: Cluster = {[475]}, Cluster = {[476]}
+Merging together clusters: Cluster = {[426]}, Cluster = {[427]}
+Merging together clusters: Cluster = {[354]}, Cluster = {[371]}
+Merging together clusters: Cluster = {[25, 122, 154, 185]}, Cluster = {[400, 432, 463, 464]}
+Merging together clusters: Cluster = {[455]}, Cluster = {[496]}
+Merging together clusters: Cluster = {[470]}, Cluster = {[480]}
+Merging together clusters: Cluster = {[453]}, Cluster = {[498]}
+Merging together clusters: Cluster = {[111]}, Cluster = {[148]}
+Merging together clusters: Cluster = {[138]}, Cluster = {[143]}
+Merging together clusters: Cluster = {[132, 339, 340, 359, 361, 363]}, Cluster = {[351, 375, 376]}
+Merging together clusters: Cluster = {[451]}, Cluster = {[488]}
+Merging together clusters: Cluster = {[381]}, Cluster = {[392]}
+Merging together clusters: Cluster = {[132, 339, 340, 359, 361, 363, 351, 375, 376]}, Cluster = {[395, 396]}
+Merging together clusters: Cluster = {[471]}, Cluster = {[485]}
+Merging together clusters: Cluster = {[472]}, Cluster = {[477]}
+Merging together clusters: Cluster = {[254]}, Cluster = {[266, 283]}
+Merging together clusters: Cluster = {[267, 272]}, Cluster = {[280]}
+Merging together clusters: Cluster = {[447]}, Cluster = {[448, 449]}
+Merging together clusters: Cluster = {[456]}, Cluster = {[458]}
+Merging together clusters: Cluster = {[83]}, Cluster = {[149, 180]}
+Merging together clusters: Cluster = {[451, 488]}, Cluster = {[491]}
+Merging together clusters: Cluster = {[100, 115, 121]}, Cluster = {[410, 417, 420, 422, 424, 430]}
+Merging together clusters: Cluster = {[236, 241, 242, 248, 335]}, Cluster = {[251, 259, 278, 329, 330]}
+Merging together clusters: Cluster = {[163]}, Cluster = {[175]}
+Merging together clusters: Cluster = {[456, 458]}, Cluster = {[474]}
+Merging together clusters: Cluster = {[125]}, Cluster = {[138, 143]}
+Merging together clusters: Cluster = {[354, 371]}, Cluster = {[373]}
+Merging together clusters: Cluster = {[475, 476]}, Cluster = {[492]}
+Merging together clusters: Cluster = {[127]}, Cluster = {[165]}
+Merging together clusters: Cluster = {[19]}, Cluster = {[118, 348, 349, 358, 369, 377]}
+Merging together clusters: Cluster = {[478]}, Cluster = {[486]}
+Merging together clusters: Cluster = {[75]}, Cluster = {[403, 414, 418, 423]}
+Merging together clusters: Cluster = {[4]}, Cluster = {[12, 225]}
+Merging together clusters: Cluster = {[200]}, Cluster = {[210]}
+Merging together clusters: Cluster = {[240, 246, 260, 279, 281, 282, 298, 303, 309, 331]}, Cluster = {[249, 252, 289, 292, 308, 325, 326]}
+Merging together clusters: Cluster = {[109]}, Cluster = {[116, 123]}
+Merging together clusters: Cluster = {[490]}, Cluster = {[493]}
+Merging together clusters: Cluster = {[460]}, Cluster = {[472, 477]}
+Merging together clusters: Cluster = {[54]}, Cluster = {[152]}
+Merging together clusters: Cluster = {[3, 61, 69, 214]}, Cluster = {[224]}
+Merging together clusters: Cluster = {[238, 253, 257, 268, 327]}, Cluster = {[294]}
+Merging together clusters: Cluster = {[19, 118, 348, 349, 358, 369, 377]}, Cluster = {[360, 372, 374]}
+Merging together clusters: Cluster = {[167]}, Cluster = {[171]}
+Merging together clusters: Cluster = {[254, 266, 283]}, Cluster = {[295]}
+Merging together clusters: Cluster = {[83, 149, 180]}, Cluster = {[190]}
+Merging together clusters: Cluster = {[473]}, Cluster = {[478, 486]}
+Merging together clusters: Cluster = {[39, 99]}, Cluster = {[135, 140]}
+Merging together clusters: Cluster = {[473, 478, 486]}, Cluster = {[487]}
+Merging together clusters: Cluster = {[462]}, Cluster = {[484]}
+Merging together clusters: Cluster = {[471, 485]}, Cluster = {[497]}
+Merging together clusters: Cluster = {[456, 458, 474]}, Cluster = {[475, 476, 492]}
+Merging together clusters: Cluster = {[114]}, Cluster = {[404, 406, 409, 411, 415, 416, 425, 429]}
+Merging together clusters: Cluster = {[179]}, Cluster = {[189]}
+Merging together clusters: Cluster = {[35]}, Cluster = {[113]}
+Merging together clusters: Cluster = {[100, 115, 121, 410, 417, 420, 422, 424, 430]}, Cluster = {[398, 399, 402, 431, 459, 461]}
+Merging together clusters: Cluster = {[134]}, Cluster = {[209]}
+Merging together clusters: Cluster = {[353]}, Cluster = {[356]}
+Merging together clusters: Cluster = {[457]}, Cluster = {[470, 480]}
+Merging together clusters: Cluster = {[401, 405, 407, 412, 413, 421]}, Cluster = {[453, 498]}
+Merging together clusters: Cluster = {[103]}, Cluster = {[110]}
+Merging together clusters: Cluster = {[379]}, Cluster = {[380]}
+Merging together clusters: Cluster = {[170]}, Cluster = {[200, 210]}
+Merging together clusters: Cluster = {[467]}, Cluster = {[469]}
+Merging together clusters: Cluster = {[37]}, Cluster = {[101]}
+Merging together clusters: Cluster = {[34]}, Cluster = {[50]}
+Merging together clusters: Cluster = {[6, 14, 23]}, Cluster = {[59, 201]}
+Merging together clusters: Cluster = {[30]}, Cluster = {[38]}
+Merging together clusters: Cluster = {[446]}, Cluster = {[447, 448, 449]}
+Merging together clusters: Cluster = {[53]}, Cluster = {[481]}
+Merging together clusters: Cluster = {[6, 14, 23, 59, 201]}, Cluster = {[231]}
+Merging together clusters: Cluster = {[85]}, Cluster = {[134, 209]}
+Merging together clusters: Cluster = {[100, 115, 121, 410, 417, 420, 422, 424, 430, 398, 399, 402, 431, 459, 461]}, Cluster = {[482, 494]}
+Merging together clusters: Cluster = {[261, 288, 296, 305]}, Cluster = {[263, 302, 318, 320, 321]}
+Merging together clusters: Cluster = {[173, 193, 203]}, Cluster = {[401, 405, 407, 412, 413, 421, 453, 498]}
+Merging together clusters: Cluster = {[16]}, Cluster = {[39, 99, 135, 140]}
+Merging together clusters: Cluster = {[85, 134, 209]}, Cluster = {[471, 485, 497]}
+Merging together clusters: Cluster = {[460, 472, 477]}, Cluster = {[473, 478, 486, 487]}
+Merging together clusters: Cluster = {[233, 235, 287, 290, 311, 315]}, Cluster = {[267, 272, 280]}
+Merging together clusters: Cluster = {[457, 470, 480]}, Cluster = {[490, 493]}
+Merging together clusters: Cluster = {[19, 118, 348, 349, 358, 369, 377, 360, 372, 374]}, Cluster = {[132, 339, 340, 359, 361, 363, 351, 375, 376, 395, 396]}
+Merging together clusters: Cluster = {[337, 342, 347, 350, 366, 367]}, Cluster = {[354, 371, 373]}
+Merging together clusters: Cluster = {[205]}, Cluster = {[215]}
+Merging together clusters: Cluster = {[238, 253, 257, 268, 327, 294]}, Cluster = {[255, 265, 293, 297, 312, 314, 317, 319, 324]}
+Merging together clusters: Cluster = {[88]}, Cluster = {[95]}
+Merging together clusters: Cluster = {[35, 113]}, Cluster = {[167, 171]}
+Merging together clusters: Cluster = {[32]}, Cluster = {[56]}
+Merging together clusters: Cluster = {[381, 392]}, Cluster = {[397]}
+Merging together clusters: Cluster = {[67]}, Cluster = {[198]}
+Merging together clusters: Cluster = {[49]}, Cluster = {[57]}
+Merging together clusters: Cluster = {[16, 39, 99, 135, 140]}, Cluster = {[173, 193, 203, 401, 405, 407, 412, 413, 421, 453, 498]}
+Merging together clusters: Cluster = {[33]}, Cluster = {[183, 213]}
+Merging together clusters: Cluster = {[172]}, Cluster = {[192]}
+Merging together clusters: Cluster = {[194]}, Cluster = {[204]}
+Merging together clusters: Cluster = {[75, 403, 414, 418, 423]}, Cluster = {[100, 115, 121, 410, 417, 420, 422, 424, 430, 398, 399, 402, 431, 459, 461, 482, 494]}
+Merging together clusters: Cluster = {[55, 63, 71]}, Cluster = {[450, 452, 483]}
+Merging together clusters: Cluster = {[382]}, Cluster = {[394]}
+Merging together clusters: Cluster = {[345, 346, 368]}, Cluster = {[352, 357]}
+Merging together clusters: Cluster = {[45]}, Cluster = {[107]}
+Merging together clusters: Cluster = {[44]}, Cluster = {[52]}
+Merging together clusters: Cluster = {[53, 481]}, Cluster = {[451, 488, 491]}
+Merging together clusters: Cluster = {[172, 192]}, Cluster = {[202]}
+Merging together clusters: Cluster = {[155]}, Cluster = {[158]}
+Merging together clusters: Cluster = {[94]}, Cluster = {[109, 116, 123]}
+Merging together clusters: Cluster = {[445]}, Cluster = {[446, 447, 448, 449]}
+Merging together clusters: Cluster = {[28]}, Cluster = {[36]}
+Merging together clusters: Cluster = {[18]}, Cluster = {[408, 419]}
+Merging together clusters: Cluster = {[31]}, Cluster = {[217]}
+Merging together clusters: Cluster = {[336, 341, 365, 370]}, Cluster = {[337, 342, 347, 350, 366, 367, 354, 371, 373]}
+Merging together clusters: Cluster = {[22]}, Cluster = {[133]}
+Merging together clusters: Cluster = {[120]}, Cluster = {[177]}
+Merging together clusters: Cluster = {[164]}, Cluster = {[166]}
+Merging together clusters: Cluster = {[250, 256, 284, 301, 310]}, Cluster = {[270, 291, 313]}
+Merging together clusters: Cluster = {[438, 439, 441, 442]}, Cluster = {[440, 443, 444]}
+Merging together clusters: Cluster = {[98]}, Cluster = {[112]}
+Merging together clusters: Cluster = {[236, 241, 242, 248, 335, 251, 259, 278, 329, 330]}, Cluster = {[237, 239, 245, 264, 273, 274, 332]}
+Merging together clusters: Cluster = {[88, 95]}, Cluster = {[103, 110]}
+Merging together clusters: Cluster = {[207]}, Cluster = {[227]}
+Merging together clusters: Cluster = {[172, 192, 202]}, Cluster = {[212]}
+Merging together clusters: Cluster = {[114, 404, 406, 409, 411, 415, 416, 425, 429]}, Cluster = {[462, 484]}
+Merging together clusters: Cluster = {[244, 276, 285, 286, 334]}, Cluster = {[254, 266, 283, 295]}
+Merging together clusters: Cluster = {[41]}, Cluster = {[73]}
+Merging together clusters: Cluster = {[129]}, Cluster = {[155, 158]}
+Merging together clusters: Cluster = {[11]}, Cluster = {[37, 101]}
+Merging together clusters: Cluster = {[19, 118, 348, 349, 358, 369, 377, 360, 372, 374, 132, 339, 340, 359, 361, 363, 351, 375, 376, 395, 396]}, Cluster = {[104]}
+Merging together clusters: Cluster = {[124]}, Cluster = {[142]}
+Merging together clusters: Cluster = {[4, 12, 225]}, Cluster = {[21]}
+Merging together clusters: Cluster = {[233, 235, 287, 290, 311, 315, 267, 272, 280]}, Cluster = {[243, 247, 258, 269, 277, 299, 304, 307, 323, 328]}
+Merging together clusters: Cluster = {[46]}, Cluster = {[75, 403, 414, 418, 423, 100, 115, 121, 410, 417, 420, 422, 424, 430, 398, 399, 402, 431, 459, 461, 482, 494]}
+Merging together clusters: Cluster = {[85, 134, 209, 471, 485, 497]}, Cluster = {[499, 503]}
+Merging together clusters: Cluster = {[60]}, Cluster = {[68]}
+Merging together clusters: Cluster = {[87]}, Cluster = {[94, 109, 116, 123]}
+Merging together clusters: Cluster = {[28, 36]}, Cluster = {[222]}
+Merging together clusters: Cluster = {[54, 152]}, Cluster = {[179, 189]}
+Merging together clusters: Cluster = {[232, 262, 271, 275, 300, 306, 316, 322]}, Cluster = {[250, 256, 284, 301, 310, 270, 291, 313]}
+Merging together clusters: Cluster = {[10]}, Cluster = {[182]}
+Merging together clusters: Cluster = {[220]}, Cluster = {[230]}
+Merging together clusters: Cluster = {[120, 177]}, Cluster = {[238, 253, 257, 268, 327, 294, 255, 265, 293, 297, 312, 314, 317, 319, 324]}
+Merging together clusters: Cluster = {[188]}, Cluster = {[211]}
+Merging together clusters: Cluster = {[35, 113, 167, 171]}, Cluster = {[170, 200, 210]}
+Merging together clusters: Cluster = {[41, 73]}, Cluster = {[65, 81]}
+Merging together clusters: Cluster = {[456, 458, 474, 475, 476, 492]}, Cluster = {[467, 469]}
+Merging together clusters: Cluster = {[25, 122, 154, 185, 400, 432, 463, 464]}, Cluster = {[33, 183, 213]}
+Merging together clusters: Cluster = {[186]}, Cluster = {[500, 501, 502]}
+Merging together clusters: Cluster = {[15]}, Cluster = {[72]}
+Merging together clusters: Cluster = {[457, 470, 480, 490, 493]}, Cluster = {[495]}
+Merging together clusters: Cluster = {[157]}, Cluster = {[162]}
+Merging together clusters: Cluster = {[379, 380]}, Cluster = {[385]}
+Merging together clusters: Cluster = {[129, 155, 158]}, Cluster = {[194, 204]}
+Merging together clusters: Cluster = {[79]}, Cluster = {[88, 95, 103, 110]}
+Merging together clusters: Cluster = {[117]}, Cluster = {[387]}
+Merging together clusters: Cluster = {[44, 52]}, Cluster = {[172, 192, 202, 212]}
+Merging together clusters: Cluster = {[244, 276, 285, 286, 334, 254, 266, 283, 295]}, Cluster = {[261, 288, 296, 305, 263, 302, 318, 320, 321]}
+Merging together clusters: Cluster = {[345, 346, 368, 352, 357]}, Cluster = {[353, 356]}
+Merging together clusters: Cluster = {[20, 93]}, Cluster = {[129, 155, 158, 194, 204]}
+Merging together clusters: Cluster = {[8, 219, 229]}, Cluster = {[114, 404, 406, 409, 411, 415, 416, 425, 429, 462, 484]}
+Merging together clusters: Cluster = {[24]}, Cluster = {[89]}
+Merging together clusters: Cluster = {[3, 61, 69, 214, 224]}, Cluster = {[236, 241, 242, 248, 335, 251, 259, 278, 329, 330, 237, 239, 245, 264, 273, 274, 332]}
+Merging together clusters: Cluster = {[6, 14, 23, 59, 201, 231]}, Cluster = {[85, 134, 209, 471, 485, 497, 499, 503]}
+Merging together clusters: Cluster = {[4, 12, 225, 21]}, Cluster = {[83, 149, 180, 190]}
+Merging together clusters: Cluster = {[84]}, Cluster = {[187]}
+Merging together clusters: Cluster = {[233, 235, 287, 290, 311, 315, 267, 272, 280, 243, 247, 258, 269, 277, 299, 304, 307, 323, 328]}, Cluster = {[240, 246, 260, 279, 281, 282, 298, 303, 309, 331, 249, 252, 289, 292, 308, 325, 326]}
+Merging together clusters: Cluster = {[460, 472, 477, 473, 478, 486, 487]}, Cluster = {[489]}
+Merging together clusters: Cluster = {[19, 118, 348, 349, 358, 369, 377, 360, 372, 374, 132, 339, 340, 359, 361, 363, 351, 375, 376, 395, 396, 104]}, Cluster = {[49, 57]}
+Merging together clusters: Cluster = {[168]}, Cluster = {[178]}
+Merging together clusters: Cluster = {[383]}, Cluster = {[390]}
+Merging together clusters: Cluster = {[77]}, Cluster = {[150]}
+Merging together clusters: Cluster = {[233, 235, 287, 290, 311, 315, 267, 272, 280, 243, 247, 258, 269, 277, 299, 304, 307, 323, 328, 240, 246, 260, 279, 281, 282, 298, 303, 309, 331, 249, 252, 289, 292, 308, 325, 326]}, Cluster = {[234, 333]}
+Merging together clusters: Cluster = {[161]}, Cluster = {[174]}
+Merging together clusters: Cluster = {[53, 481, 451, 488, 491]}, Cluster = {[455, 496]}
+Merging together clusters: Cluster = {[199]}, Cluster = {[445, 446, 447, 448, 449]}
+Merging together clusters: Cluster = {[336, 341, 365, 370, 337, 342, 347, 350, 366, 367, 354, 371, 373]}, Cluster = {[338, 364]}
+Merging together clusters: Cluster = {[4, 12, 225, 21, 83, 149, 180, 190]}, Cluster = {[6, 14, 23, 59, 201, 231, 85, 134, 209, 471, 485, 497, 499, 503]}
+Merging together clusters: Cluster = {[3, 61, 69, 214, 224, 236, 241, 242, 248, 335, 251, 259, 278, 329, 330, 237, 239, 245, 264, 273, 274, 332]}, Cluster = {[244, 276, 285, 286, 334, 254, 266, 283, 295, 261, 288, 296, 305, 263, 302, 318, 320, 321]}
+Merging together clusters: Cluster = {[343, 344, 355, 362]}, Cluster = {[345, 346, 368, 352, 357, 353, 356]}
+Merging together clusters: Cluster = {[87, 94, 109, 116, 123]}, Cluster = {[186, 500, 501, 502]}
+Merging together clusters: Cluster = {[76]}, Cluster = {[127, 165]}
+Merging together clusters: Cluster = {[3, 61, 69, 214, 224, 236, 241, 242, 248, 335, 251, 259, 278, 329, 330, 237, 239, 245, 264, 273, 274, 332, 244, 276, 285, 286, 334, 254, 266, 283, 295, 261, 288, 296, 305, 263, 302, 318, 320, 321]}, Cluster = {[232, 262, 271, 275, 300, 306, 316, 322, 250, 256, 284, 301, 310, 270, 291, 313]}
+Merging together clusters: Cluster = {[48]}, Cluster = {[120, 177, 238, 253, 257, 268, 327, 294, 255, 265, 293, 297, 312, 314, 317, 319, 324]}
+Merging together clusters: Cluster = {[388]}, Cluster = {[391]}
+Merging together clusters: Cluster = {[156]}, Cluster = {[197]}
+Merging together clusters: Cluster = {[208]}, Cluster = {[218]}
+Merging together clusters: Cluster = {[159]}, Cluster = {[221]}
+Merging together clusters: Cluster = {[128]}, Cluster = {[145]}
+Merging together clusters: Cluster = {[379, 380, 385]}, Cluster = {[386]}
+Merging together clusters: Cluster = {[47]}, Cluster = {[55, 63, 71, 450, 452, 483]}
+Merging together clusters: Cluster = {[336, 341, 365, 370, 337, 342, 347, 350, 366, 367, 354, 371, 373, 338, 364]}, Cluster = {[343, 344, 355, 362, 345, 346, 368, 352, 357, 353, 356]}
+Merging together clusters: Cluster = {[11, 37, 101]}, Cluster = {[86]}
+Merging together clusters: Cluster = {[168, 178]}, Cluster = {[228]}
+Merging together clusters: Cluster = {[111, 148]}, Cluster = {[199, 445, 446, 447, 448, 449]}
+Merging together clusters: Cluster = {[13]}, Cluster = {[16, 39, 99, 135, 140, 173, 193, 203, 401, 405, 407, 412, 413, 421, 453, 498]}
+Merging together clusters: Cluster = {[454, 465, 466, 468, 479]}, Cluster = {[460, 472, 477, 473, 478, 486, 487, 489]}
+Merging together clusters: Cluster = {[35, 113, 167, 171, 170, 200, 210]}, Cluster = {[53, 481, 451, 488, 491, 455, 496]}
+Merging together clusters: Cluster = {[92]}, Cluster = {[151]}
+Merging together clusters: Cluster = {[454, 465, 466, 468, 479, 460, 472, 477, 473, 478, 486, 487, 489]}, Cluster = {[456, 458, 474, 475, 476, 492, 467, 469]}
+Merging together clusters: Cluster = {[9]}, Cluster = {[220, 230]}
+Merging together clusters: Cluster = {[60, 68]}, Cluster = {[141]}
+Merging together clusters: Cluster = {[3, 61, 69, 214, 224, 236, 241, 242, 248, 335, 251, 259, 278, 329, 330, 237, 239, 245, 264, 273, 274, 332, 244, 276, 285, 286, 334, 254, 266, 283, 295, 261, 288, 296, 305, 263, 302, 318, 320, 321, 232, 262, 271, 275, 300, 306, 316, 322, 250, 256, 284, 301, 310, 270, 291, 313]}, Cluster = {[233, 235, 287, 290, 311, 315, 267, 272, 280, 243, 247, 258, 269, 277, 299, 304, 307, 323, 328, 240, 246, 260, 279, 281, 282, 298, 303, 309, 331, 249, 252, 289, 292, 308, 325, 326, 234, 333]}
+Merging together clusters: Cluster = {[13, 16, 39, 99, 135, 140, 173, 193, 203, 401, 405, 407, 412, 413, 421, 453, 498]}, Cluster = {[25, 122, 154, 185, 400, 432, 463, 464, 33, 183, 213]}
